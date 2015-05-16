@@ -1,0 +1,164 @@
+#Change to the document directory
+cd Documents
+history | less
+history | tail -r
+history | tail
+man history
+history -r
+history
+clear
+ls ...
+ls ..
+cd ~
+cd ...
+cd Documents/Jproject/htmlandcss/
+ls Applications/
+ls ~
+cd /
+ls
+cd .
+pwd
+cd ../..
+cd ..
+cd
+cd Documents/
+cd Google\ Drive/
+cd Mockingbird/
+cd Zanoby/
+cd Zan
+ls -a
+cd src
+ls -lsA
+man ls
+ls -ltr
+ls -tr
+ls -r
+ls -lt
+ls -l
+ls -t
+git config user.name
+echo $PATH
+echo $EDITOR
+echo $E
+brew info fish
+brew update
+uname
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email "kenji.crosland@gmail.com"
+git config --global user.ema
+git config --global user.e
+git config --global user.name "KenjiCrosland"
+git --version
+brew install git
+subl /etc/paths
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ls -G
+sudo sqlite3 /Library/Application\ Support/com.apple.TCC/Tcc.db 'delete from access where client like "%Steam%"'
+git revert HEAD
+git -credential 47piWfspZK2T
+git push origin master
+git credential-osxkeychain
+git config --global credential.helper osxkeychain
+sudo mv git-credential-osxkeychain   "$(dirname $(which git))/git-credential-osxkeychain"
+chmod u+x git-credential-osxkeychain
+curl -s -O   https://github-media-downloads.s3.amazonaws.com/osx/git-credential-osxkeychain
+git remote set -url origin https://github.com/KenjiCrosland/HomePwner
+git push
+git remote -v
+git remote add origin https://github.com/KenjiCrosland/HomePwner
+git commit -m "added readme file"
+cd ObjectiveC/Homepwner
+git commit
+git add .
+git status
+touch Readme.txt
+git init
+ssh -add ~/.ssh/id_rsa
+ssh-add -l
+eval 'ssh-agent -s'
+ssh -T git@github.com
+ssh -vT git@github.com
+git remote add origin git@github.com:KenjiCrosland/HomePwner.git
+git commit -m "initial project version"
+git commit - "initial project version"
+git add *.c
+cd Homepwner
+cd ObjectiveC
+ff Homepwner
+cd Objective C
+/Documents
+sqlite3 ~/Library/Application\ Support/Dock/*.db "DELETE from apps WHERE title='CONVERT TO AAC';" && killall Dock
+sqlite3 ~/Library/Application\ Support/Dock/*.db "DELETE from apps WHERE title='Convert for Internet';" && killall Dock
+./prog1
+cd..
+main.m
+./main.m
+/main.m
+main
+prog1
+cd prog1
+vi main.m
+mkdir prog1
+mkdir ObjectiveC
+CD Objective_C
+cd My Documents
+Microsoft User Data
+RDC Connections
+Mood Tracker.xlsx
+WritingValueBlogPost.txt
+Kenji Crosland Resume 2013.docx
+4Personalitytypes.docx
+TradeBriefs
+Kenji Crosland - Happy Inspector Invoice #5 (March 2013).xlsx
+Kenji Crosland--Getty.docx
+Venue Guide Announcement.omm
+Venuetext.omm
+QuizProject
+Superherostuff.docx
+KivaDraft.omm
+Jproject
+SEO Assessment.docx
+The eVenues Event Planning Checklist.docx
+Rockport
+Aspyr
+Screen.pdf
+Payment Receipt - PayPal.pdf
+meditationpost.docx
+KatrinaEvenuesPost.html
+Unready and Willing
+eVenues
+Zanoby
+memories.omm
+Shadowrun Returns
+SavedGames
+H&R Block®-DisplayReturn_files
+Evernote Templates
+DistributionForm
+Evernote Snapshot 20140608 143103.jpg
+DistributionForm.pdf
+croslandlogo.png
+croslandcube.jpeg
+favicon.png
+PM Effectiveness August 17 2014.xlsx
+ClassAction.png
+# This was a pretty cool game
+Shadowrun Dragonfall
+ObjectiveC
+greatamericannovel.png
+Larian Studios
+MOV_8617.mov
+Google Certification.png
+SteveCrosland.jpg
+Releasing.docx
+Sit down in a comfortable place and close your eyes.docx
+Civilization IV Beyond the Sword
+moving_around.txt
