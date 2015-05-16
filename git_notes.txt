@@ -1,0 +1,10 @@
+Basic Git Workflow:
+1. Create Repository with git init
+2. Check out the status to see what files are in the directory and what could be committed. With git status
+3. Add files with the git add command.
+4. When ready to commit, use the git commit command with the -m for the message.
+
+Making Changes
+1. To see what branch you're in type git branch
+2. To create a new branch, type git branch name-of-branch
+3. To check out the branch, type git checkou name-of-branch
